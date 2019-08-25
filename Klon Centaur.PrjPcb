@@ -62,10 +62,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Klon Centaur\Klon Centaur.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Klon Centaur\Klon Centaur.swd
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
